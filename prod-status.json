@@ -1,0 +1,9 @@
+{
+  "msg": "",
+  "msgCode": 200,
+  "data": {
+    "isSuspend": false,
+    "messageTitle": "",
+    "messageBody": ""
+  }
+}
