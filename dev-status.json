@@ -1,9 +1,9 @@
 {
-  "msg": "dev",
-  "msgCode": 200,
-  "data": {
-    "isSuspend": false,
-    "messageTitle": "",
-    "messageBody": ""
-  }
+    "msg": "dev",
+    "msgCode": 200,
+    "data": {
+        "isSuspend": true,
+        "messageTitle": "점검 Title",
+        "messageBody": "점검 Message\n내용입니다."
+    }
 }
