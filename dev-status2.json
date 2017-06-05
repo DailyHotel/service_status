@@ -1,9 +1,0 @@
-{
-    "msg": "dev",
-    "msgCode": 200,
-    "data": {
-        "isSuspend": false,
-        "messageTitle": "데일리호텔 서비스점검11",
-        "messageBody": "더 좋은 서비스를 준비하기 위해 06:00부터 07:00까지 서비스 사용이 중단됩니다. 양해 부탁드립니다."
-    }
-}
