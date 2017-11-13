@@ -2,7 +2,7 @@
   "msg": "prod",
   "msgCode": 200,
   "data": {
-    "isSuspend": true,
+    "isSuspend": false,
     "messageTitle": "데일리호텔 서비스점검",
     "messageBody": "더 좋은 서비스를 준비하기 위해\n06:30부터 07:30까지\n서비스 사용이 중단됩니다.\n양해 부탁드립니다."
   }
