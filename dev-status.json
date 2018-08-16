@@ -2,7 +2,7 @@
     "msg": "dev",
     "msgCode": 200,
     "data": {
-        "isSuspend": true,
+        "isSuspend": false,
         "messageTitle": "데일리호텔 서비스점검",
         "messageBody": "QA 중입니다. 아주 잠시만 기다려주세요! +_+ (from Della)"
     }
