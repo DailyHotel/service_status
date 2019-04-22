@@ -2,7 +2,7 @@
     "msg": "dev",
     "msgCode": 200,
     "data": {
-        "isSuspend": true,
+        "isSuspend": false,
         "messageTitle": "데일리호텔 서비스점검",
         "messageBody": "서비스 점검 테스트 중입니다. 1분만 변경해볼게요! from Hue."
     }
