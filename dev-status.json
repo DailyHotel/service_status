@@ -1,6 +1,6 @@
 {
     "msg": "dev",
-    "msgCode": 500,
+    "msgCode": 200,
     "data": {
         "isSuspend": true,
         "messageTitle": "데일리호텔 서비스점검",
